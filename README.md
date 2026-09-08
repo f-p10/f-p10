@@ -30,9 +30,9 @@ applications that serve a meaningful purpose.
 
 `Pandas` `NumPy` `Power BI` `Power Query` `DAX` `PostgreSQL` `MongoDB` `Firebase`
 
-## Featured Projects
+## Favourite Projects
 
-### La Liga Match Prediction Model (In Progress)
+### La Liga Match Prediction Model (In Progress) - Private
 
 Machine learning system designed to predict La Liga match outcomes using historical football data, feature engineering, backtesting, and real-world season tracking.
 
@@ -46,7 +46,7 @@ Machine learning system designed to predict La Liga match outcomes using histori
 
 ---
 
-### Transformer Implementation
+### Transformer Implementation - Private
 
 Built a transformer-based language model from scratch in PyTorch to better understand the architecture behind modern LLMs.
 
@@ -60,7 +60,7 @@ Built a transformer-based language model from scratch in PyTorch to better under
 
 ---
 
-### BuddyCheckAI
+### BuddyCheckAI - Private
 
 AI-powered health information assistant designed to analyze user-provided information and generate structured assessments.
 
@@ -74,7 +74,23 @@ AI-powered health information assistant designed to analyze user-provided inform
 
 ---
 
-### European Football Dashboard
+### Garbage Classification Model - Public
+
+Deep learning image classification project designed to identify different categories of waste from images and provide disposal guidance.
+
+**Tech:** Python · PyTorch · ResNet-50 · Streamlit · Ollama · Computer Vision
+
+* Fine-tuned a pretrained ResNet-50 model for multi-class garbage classification
+* Built an image preprocessing, training, and inference pipeline using PyTorch
+* Applied transfer learning to improve performance while reducing training time
+* Built a Streamlit web application that allows users to upload an image and receive the predicted garbage category
+* Integrated Ollama to generate disposal guidance based on the model's prediction
+* Combined computer vision and local LLM inference into a single end-to-end application
+
+---
+
+
+### European Football Dashboard - Private
 
 Interactive football analytics dashboard focused on player and league performance.
 
