@@ -86,8 +86,6 @@ Interactive football analytics dashboard focused on player and league performanc
 * Visualized scoring statistics and league comparisons
 
 ## Connect With Me
-
-* LinkedIn: **[Your LinkedIn]**
 * Email: **f_pereira19@proton.me**
 
 ---
