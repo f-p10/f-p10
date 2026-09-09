@@ -30,9 +30,9 @@ applications that serve a meaningful purpose.
 
 `Pandas` `NumPy` `Power BI` `Power Query` `DAX` `PostgreSQL` `MongoDB` `Firebase`
 
-## Favourite Projects (Private)
+## What I'm currently working on (Private)
 
-### La Liga Match Prediction Model (In Progress) 
+### La Liga Match Prediction Model 
 
 Machine learning system designed to predict La Liga match outcomes using historical football data, feature engineering, backtesting, and real-world season tracking.
 
@@ -46,44 +46,6 @@ Machine learning system designed to predict La Liga match outcomes using histori
 
 ---
 
-### Transformer Implementation 
-
-Built a transformer-based language model from scratch in PyTorch to better understand the architecture behind modern LLMs.
-
-**Tech:** Python · PyTorch
-
-* Implemented token embeddings and positional encoding
-* Built multi-head self-attention
-* Implemented feed-forward layers, residual connections, and normalization
-* Created training and autoregressive inference pipelines
-* Experimented with architecture and hyperparameters
-
----
-
-### BuddyCheckAI 
-
-AI-powered health information assistant designed to analyze user-provided information and generate structured assessments.
-
-**Tech:** Python · FastAPI · React · Firebase · Ollama
-
-* Built a full-stack AI application
-* Integrated locally hosted LLM inference
-* Created FastAPI endpoints with structured JSON validation
-* Designed a React frontend for interacting with the AI system
-* Added persistent application data using Firebase
-
----
-
-### European Football Dashboard 
-
-Interactive football analytics dashboard focused on player and league performance.
-
-**Tech:** Python · Power BI
-
-* Cleaned and transformed football datasets
-* Created league standings and player analysis
-* Built custom Power BI measures using DAX
-* Visualized scoring statistics and league comparisons
 
 ## Connect With Me
 * Email: **f_pereira19@proton.me**
