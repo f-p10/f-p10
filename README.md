@@ -60,7 +60,7 @@ Built a transformer-based language model from scratch in PyTorch to better under
 
 ---
 
-### BuddyCheckAI - Private
+### BuddyCheckAI 
 
 AI-powered health information assistant designed to analyze user-provided information and generate structured assessments.
 
